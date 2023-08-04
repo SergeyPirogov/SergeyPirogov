@@ -36,4 +36,6 @@
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeypirogov&label=Profile%20views&color=0e75b6&style=flat-square" alt="sergeypirogov" /> </p>
+<p align="left"> 
+<a href="https://u8views.com/github/SergeyPirogov"><img src="https://u8views.com/api/v1/github/profiles/4622856/views/day-week-month-total-count.svg"></a>
+</p>
